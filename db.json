@@ -1,24 +1,22 @@
-  {
-
-
-"user":
-[
-  {
-    "id": 1,
-    "name": "Nguyen Van A",
-    "email": "vana@gmail.com",
-    "phone": "0123456789",
-    "avatar": "avatar1.png",
-    "dateOfBirth": "2004-10-15"
-  },
-  {
-    "id": 2,
-    "name": "Tran Thi B",
-    "email": "thib@gmail.com",
-    "phone": "0987654321",
-    "avatar": "avatar2.png",
-    "dateOfBirth": "2003-05-20"
-  }
-]
-  }
+{
+    "user":
+    [
+      {
+        "id": 1,
+        "name": "Nguyen Van A",
+        "email": "vana@gmail.com",
+        "phone": "0123456789",
+        "avatar": "avatar1.png",
+        "dateOfBirth": "2004-10-15"
+      },
+      {
+        "id": 2,
+        "name": "Tran Thi B",
+        "email": "thib@gmail.com",
+        "phone": "0987654321",
+        "avatar": "avatar2.png",
+        "dateOfBirth": "2003-05-20"
+      }
+    ]
+}
 
